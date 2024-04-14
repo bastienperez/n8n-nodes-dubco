@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-dubco",
   "version": "0.1.0",
   "description": "",
   "keywords": [
@@ -8,12 +8,12 @@
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
+    "name": "Bastien Perez",
     "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/bastienperez/n8n-nodes-dubco.git"
   },
   "main": "index.js",
   "scripts": {

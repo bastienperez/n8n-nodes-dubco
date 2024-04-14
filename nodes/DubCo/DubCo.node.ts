@@ -93,7 +93,7 @@ export class DubCo implements INodeType {
                     name: 'Get',
                     value: 'get',
                     action: 'Get the projects',
-                    description: 'Get the dub.co workspaces',
+                    description: 'Get the dub.co orkspaces',
                     routing: {
                         request: {
                             method: 'GET',
